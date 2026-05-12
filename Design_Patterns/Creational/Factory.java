@@ -1,6 +1,8 @@
 package Design_Patterns.Creational;
 import java.util.*;
 
+
+
 public class Factory {
     public interface InnerFactory {
         void draw(); 
